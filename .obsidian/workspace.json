@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d910062ebf4e81b",
+            "id": "88eb4dc2708ffc3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eksploracyjna analiza danych/Untitled.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eksploracyjna analiza danych/Untitled.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eksploracyjna analiza danych/Untitled.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eksploracyjna analiza danych/Untitled.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,8 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d910062ebf4e81b",
+  "active": "88eb4dc2708ffc3a",
   "lastOpenFiles": [
+    "Planowanie ruchu/BFS.md",
+    "Untitled.md",
+    "z",
+    "a",
+    "Eksploracyjna analiza danych",
+    "Eksploracyjna analiza danych/Untitled.md",
+    "2",
+    "1",
+    "Planowanie ruchu/actuators.md",
+    "Planowanie ruchu/2D motion constraints.md",
+    "Planowanie ruchu/assets/2D motion constraints.md",
     "holo-vault/Eksploracyjna analiza danych/Untitled.md",
     "LICENSE",
     "Uczenie Maszynowe/assets/svm_linear.png",
@@ -179,21 +190,10 @@
     "Uczenie Maszynowe/input layer.md",
     "Uczenie Maszynowe/hidden layer.md",
     "Uczenie Maszynowe/gradient boosting.md",
-    "Uczenie Maszynowe/epoch.md",
-    "Uczenie Maszynowe/enthropy.md",
-    "Uczenie Maszynowe/ensemble classifier.md",
-    "Uczenie Maszynowe/dropout.md",
-    "Uczenie Maszynowe/decision tree.md",
-    "Uczenie Maszynowe/cost function.md",
     "Uczenie Maszynowe/assets",
     "Uczenie Maszynowe",
     "Teoria Sterowania w Robotyce/assets",
     "Teoria Sterowania w Robotyce",
-    "Systemy Wizyjne/assets",
-    "Systemy Wizyjne",
-    "Planowanie ruchu/assets",
-    "Planowanie ruchu",
-    "Eksploracyjna analiza danych",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+- Typ danych nominalnych (np. nazwy ulic (ograniczony zbiór)) - nie da się wyznaczyć rozkładu
