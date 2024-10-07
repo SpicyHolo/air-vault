@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "377f86efd352c705",
+    "type": "split",
+    "children": [
+      {
+        "id": "6610f10b23fc6a97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d910062ebf4e81b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eksploracyjna analiza danych/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c13144bb09a101f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d551900d4a8312c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3efef88568e6caf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75a65e5f2291349f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95a2d505e9714b9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a141da6d63666cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc2d5fce9aa5c994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8af8c3cd4ef78f2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eksploracyjna analiza danych/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2447548093d2d7df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eksploracyjna analiza danych/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45e6236b7c17fc00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d119c6e5c454221",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Eksploracyjna analiza danych/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7d910062ebf4e81b",
+  "lastOpenFiles": [
+    "holo-vault/Eksploracyjna analiza danych/Untitled.md",
+    "LICENSE",
+    "Uczenie Maszynowe/assets/svm_linear.png",
+    "Uczenie Maszynowe/assets/sigmoid, tanh.png",
+    "Uczenie Maszynowe/assets/rnn-1L.png",
+    "Uczenie Maszynowe/assets/random forest.jpg",
+    "Uczenie Maszynowe/assets/ocena_algorytmu.jpg",
+    "Uczenie Maszynowe/assets/neural network model.png",
+    "Uczenie Maszynowe/assets/monty python.webp",
+    "Uczenie Maszynowe/assets/ml_diagram.png",
+    "Uczenie Maszynowe/assets/lest square error.png",
+    "Uczenie Maszynowe/assets/decision tree.jpg",
+    "Uczenie Maszynowe/unsupervised learning.md",
+    "Uczenie Maszynowe/tuning classifiers.md",
+    "Uczenie Maszynowe/time series analysis.md",
+    "Uczenie Maszynowe/spiking neural network.md",
+    "Uczenie Maszynowe/scoring ML.md",
+    "Uczenie Maszynowe/regression.md",
+    "Uczenie Maszynowe/random forest.md",
+    "Uczenie Maszynowe/precision vs recall.md",
+    "Uczenie Maszynowe/perceptron.md",
+    "Uczenie Maszynowe/nonlinear regression.md",
+    "Uczenie Maszynowe/neuron model.md",
+    "Uczenie Maszynowe/neural network.md",
+    "Uczenie Maszynowe/network training.md",
+    "Uczenie Maszynowe/minibatch.md",
+    "Uczenie Maszynowe/linear regression.md",
+    "Uczenie Maszynowe/k-means algorithm.md",
+    "Uczenie Maszynowe/input layer.md",
+    "Uczenie Maszynowe/hidden layer.md",
+    "Uczenie Maszynowe/gradient boosting.md",
+    "Uczenie Maszynowe/epoch.md",
+    "Uczenie Maszynowe/enthropy.md",
+    "Uczenie Maszynowe/ensemble classifier.md",
+    "Uczenie Maszynowe/dropout.md",
+    "Uczenie Maszynowe/decision tree.md",
+    "Uczenie Maszynowe/cost function.md",
+    "Uczenie Maszynowe/assets",
+    "Uczenie Maszynowe",
+    "Teoria Sterowania w Robotyce/assets",
+    "Teoria Sterowania w Robotyce",
+    "Systemy Wizyjne/assets",
+    "Systemy Wizyjne",
+    "Planowanie ruchu/assets",
+    "Planowanie ruchu",
+    "Eksploracyjna analiza danych",
+    "Untitled.canvas"
+  ]
+}
