@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Eksploracyjna analiza danych/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6991f12bd44c3482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autonomiczne Roboty Mobilne/Zaliczenie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Autonomiczne Roboty Mobilne/Zaliczenie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Autonomiczne Roboty Mobilne/Zaliczenie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Autonomiczne Roboty Mobilne/Zaliczenie.md"
               }
             }
           }
@@ -146,18 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3efef88568e6caf",
+  "active": "6991f12bd44c3482",
   "lastOpenFiles": [
+    "Eksploracyjna analiza danych/Zaliczenie.md",
+    "Eksploracyjna analiza danych/Untitled.md",
+    "Autonomiczne Roboty Mobilne/Zaliczenie.md",
+    "Planowanie ruchu/autonomic robots.md",
+    "Planowanie ruchu/actuators.md",
+    "Untitled",
     "Autonomiczne Roboty Mobilne",
     "Planowanie ruchu/BFS.md",
-    "Untitled.md",
     "z",
     "a",
     "Eksploracyjna analiza danych",
-    "Eksploracyjna analiza danych/Untitled.md",
     "2",
     "1",
-    "Planowanie ruchu/actuators.md",
     "Planowanie ruchu/2D motion constraints.md",
     "Planowanie ruchu/assets/2D motion constraints.md",
     "holo-vault/Eksploracyjna analiza danych/Untitled.md",
@@ -188,12 +204,8 @@
     "Uczenie Maszynowe/minibatch.md",
     "Uczenie Maszynowe/linear regression.md",
     "Uczenie Maszynowe/k-means algorithm.md",
-    "Uczenie Maszynowe/input layer.md",
-    "Uczenie Maszynowe/hidden layer.md",
     "Uczenie Maszynowe/assets",
     "Uczenie Maszynowe",
-    "Teoria Sterowania w Robotyce/assets",
-    "Teoria Sterowania w Robotyce",
     "Untitled.canvas"
   ]
 }
