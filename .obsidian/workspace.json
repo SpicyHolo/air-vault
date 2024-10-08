@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autonomiczne Roboty Mobilne/Zaliczenie.md",
+                "file": "Eksploracyjna analiza danych/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomiczne Roboty Mobilne/Zaliczenie.md",
+                "file": "Eksploracyjna analiza danych/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomiczne Roboty Mobilne/Zaliczenie.md",
+                "file": "Eksploracyjna analiza danych/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomiczne Roboty Mobilne/Zaliczenie.md"
+                "file": "Eksploracyjna analiza danych/Untitled.md"
               }
             }
           }
@@ -161,22 +161,39 @@
   },
   "active": "6991f12bd44c3482",
   "lastOpenFiles": [
-    "Eksploracyjna analiza danych/Zaliczenie.md",
-    "Eksploracyjna analiza danych/Untitled.md",
-    "Autonomiczne Roboty Mobilne/Zaliczenie.md",
+    "Teoria Sterowania w Robotyce/ostatni wyklad xD.md",
+    "Teoria Sterowania w Robotyce/observability.md",
+    "Teoria Sterowania w Robotyce/nonlinear system.md",
+    "Teoria Sterowania w Robotyce/Linearisation using Taylor series approximation.md",
+    "Teoria Sterowania w Robotyce/LQR controller.md",
+    "Teoria Sterowania w Robotyce/Lyapunov function.md",
+    "Teoria Sterowania w Robotyce/state space sampling.md",
+    "Teoria Sterowania w Robotyce/stabilizability.md",
+    "Teoria Sterowania w Robotyce/stability of dynamical system.md",
+    "Teoria Sterowania w Robotyce/second-order system.md",
+    "Teoria Sterowania w Robotyce/robot dynamics.md",
+    "Teoria Sterowania w Robotyce/physical pendulum.md",
+    "Teoria Sterowania w Robotyce/controllability.md",
+    "Teoria Sterowania w Robotyce/approximate DP.md",
+    "Planowanie ruchu/A-star.md",
     "Planowanie ruchu/autonomic robots.md",
-    "Planowanie ruchu/actuators.md",
+    "Planowanie ruchu/OMPL.md",
+    "Planowanie ruchu/priority queue.md",
+    "Planowanie ruchu/OctoMap.md",
+    "Planowanie ruchu/occupancy grid.md",
+    "Planowanie ruchu/map decomposition algs.md",
+    "Planowanie ruchu/metric map.md",
+    "Planowanie ruchu/LIDAR.md",
+    "Planowanie ruchu/kinodynamic planning.md",
+    "Planowanie ruchu/k-d trees.md",
+    "Planowanie ruchu/incremental sampling and searching.md",
     "Untitled",
     "Autonomiczne Roboty Mobilne",
-    "Planowanie ruchu/BFS.md",
     "z",
     "a",
     "Eksploracyjna analiza danych",
     "2",
     "1",
-    "Planowanie ruchu/2D motion constraints.md",
-    "Planowanie ruchu/assets/2D motion constraints.md",
-    "holo-vault/Eksploracyjna analiza danych/Untitled.md",
     "LICENSE",
     "Uczenie Maszynowe/assets/svm_linear.png",
     "Uczenie Maszynowe/assets/sigmoid, tanh.png",
@@ -188,22 +205,6 @@
     "Uczenie Maszynowe/assets/ml_diagram.png",
     "Uczenie Maszynowe/assets/lest square error.png",
     "Uczenie Maszynowe/assets/decision tree.jpg",
-    "Uczenie Maszynowe/unsupervised learning.md",
-    "Uczenie Maszynowe/tuning classifiers.md",
-    "Uczenie Maszynowe/time series analysis.md",
-    "Uczenie Maszynowe/spiking neural network.md",
-    "Uczenie Maszynowe/scoring ML.md",
-    "Uczenie Maszynowe/regression.md",
-    "Uczenie Maszynowe/random forest.md",
-    "Uczenie Maszynowe/precision vs recall.md",
-    "Uczenie Maszynowe/perceptron.md",
-    "Uczenie Maszynowe/nonlinear regression.md",
-    "Uczenie Maszynowe/neuron model.md",
-    "Uczenie Maszynowe/neural network.md",
-    "Uczenie Maszynowe/network training.md",
-    "Uczenie Maszynowe/minibatch.md",
-    "Uczenie Maszynowe/linear regression.md",
-    "Uczenie Maszynowe/k-means algorithm.md",
     "Uczenie Maszynowe/assets",
     "Uczenie Maszynowe",
     "Untitled.canvas"
