@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88eb4dc2708ffc3a",
+  "active": "e3efef88568e6caf",
   "lastOpenFiles": [
+    "Autonomiczne Roboty Mobilne",
     "Planowanie ruchu/BFS.md",
     "Untitled.md",
     "z",
@@ -189,7 +190,6 @@
     "Uczenie Maszynowe/k-means algorithm.md",
     "Uczenie Maszynowe/input layer.md",
     "Uczenie Maszynowe/hidden layer.md",
-    "Uczenie Maszynowe/gradient boosting.md",
     "Uczenie Maszynowe/assets",
     "Uczenie Maszynowe",
     "Teoria Sterowania w Robotyce/assets",
