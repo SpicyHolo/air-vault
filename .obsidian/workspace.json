@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roboty Przemysłowe/Programowanie Kuka.md",
+                "file": "Grafika 3D/Zaliczenie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roboty Przemysłowe/Programowanie Kuka.md",
+                "file": "Grafika 3D/Zaliczenie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roboty Przemysłowe/Programowanie Kuka.md",
+                "file": "Grafika 3D/Zaliczenie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roboty Przemysłowe/Programowanie Kuka.md"
+                "file": "Grafika 3D/Zaliczenie.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "6991f12bd44c3482",
   "lastOpenFiles": [
-    "Eksploracyjna analiza danych/Untitled.md",
     "Roboty Przemysłowe/Programowanie Kuka.md",
+    "Eksploracyjna analiza danych/Untitled.md",
     "Autonomiczne Roboty Mobilne/Zaliczenie.md",
     "Roboty Przemysłowe",
     "Eksploracyjna analiza danych/Zaliczenie.md",
