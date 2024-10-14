@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31e6a7646118812b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pracownia badawacza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grafika 3D/Zaliczenie.md",
+                "file": "Pracownia badawacza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grafika 3D/Zaliczenie.md",
+                "file": "Pracownia badawacza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grafika 3D/Zaliczenie.md"
+                "file": "Pracownia badawacza.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6991f12bd44c3482",
+  "active": "31e6a7646118812b",
   "lastOpenFiles": [
+    "Grafika 3D/Zaliczenie.md",
+    "Pracownia badawacza.md",
     "Roboty Przemysłowe/Programowanie Kuka.md",
     "Eksploracyjna analiza danych/Untitled.md",
     "Autonomiczne Roboty Mobilne/Zaliczenie.md",
@@ -191,8 +206,6 @@
     "Uczenie Maszynowe/neural network.md",
     "Uczenie Maszynowe/network training.md",
     "Uczenie Maszynowe/minibatch.md",
-    "Uczenie Maszynowe/linear regression.md",
-    "Uczenie Maszynowe/k-means algorithm.md",
     "Uczenie Maszynowe/assets",
     "Untitled.canvas"
   ]
