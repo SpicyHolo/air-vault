@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6610f10b23fc6a97",
+        "id": "4ce1ff922e8fb969",
         "type": "tabs",
         "children": [
           {
-            "id": "88eb4dc2708ffc3a",
+            "id": "c1bc35a14fc46e19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eksploracyjna analiza danych/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6991f12bd44c3482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eksploracyjna analiza danych/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eksploracyjna analiza danych/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eksploracyjna analiza danych/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Eksploracyjna analiza danych/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6991f12bd44c3482",
+  "active": "c1bc35a14fc46e19",
   "lastOpenFiles": [
+    "Eksploracyjna analiza danych/Untitled.md",
     "Teoria Sterowania w Robotyce/ostatni wyklad xD.md",
     "Teoria Sterowania w Robotyce/observability.md",
     "Teoria Sterowania w Robotyce/nonlinear system.md",
@@ -186,7 +166,6 @@
     "Planowanie ruchu/LIDAR.md",
     "Planowanie ruchu/kinodynamic planning.md",
     "Planowanie ruchu/k-d trees.md",
-    "Planowanie ruchu/incremental sampling and searching.md",
     "Untitled",
     "Autonomiczne Roboty Mobilne",
     "z",
