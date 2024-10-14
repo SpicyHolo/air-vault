@@ -19,9 +19,9 @@
   "anp-custom-rainbow-colors@@rainbow-color-10-default": "rainbow-color-10-lavender",
   "anp-custom-rainbow-colors@@rainbow-color-11-default": "rainbow-color-11-lavender",
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
-  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
-  "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": false,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
   "anuppuccin-theme-settings@@anp-codeblock-numbers": false,
   "anuppuccin-theme-settings@@anp-translucency-opacity": 0.15,
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
@@ -61,5 +61,9 @@
   "anuppuccin-theme-settings@@anp-card-layout-padding": 10,
   "anuppuccin-theme-settings@@anp-card-header-left-padding": 16,
   "anuppuccin-theme-settings@@anp-safari-tab-animated": false,
-  "anp-custom-rainbow-colors@@rainbow-color-1-default": "rainbow-color-1-red"
+  "anp-custom-rainbow-colors@@rainbow-color-1-default": "rainbow-color-1-red",
+  "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": true,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
+  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true
 }

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4ce1ff922e8fb969",
+        "id": "59119c1d1c541c20",
         "type": "tabs",
         "children": [
           {
-            "id": "c1bc35a14fc46e19",
+            "id": "e20e9861a1e62f05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -138,9 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1bc35a14fc46e19",
+  "active": "e3efef88568e6caf",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Roboty Przemysłowe/Programowanie Kuka.md",
+    "Roboty Przemysłowe",
+    "Pracownia badawacza.md",
+    "Grafika 3D/Zaliczenie.md",
+    "Grafika 3D",
+    "Eksploracyjna analiza danych/Eksploracyjna analiza danych.md",
+    "Autonomiczne Roboty Mobilne/14.10.2024.md",
     "Eksploracyjna analiza danych/Untitled.md",
+    "Uczenie Maszynowe/adaBoost.md",
     "Teoria Sterowania w Robotyce/ostatni wyklad xD.md",
     "Teoria Sterowania w Robotyce/observability.md",
     "Teoria Sterowania w Robotyce/nonlinear system.md",
@@ -159,13 +176,6 @@
     "Planowanie ruchu/autonomic robots.md",
     "Planowanie ruchu/OMPL.md",
     "Planowanie ruchu/priority queue.md",
-    "Planowanie ruchu/OctoMap.md",
-    "Planowanie ruchu/occupancy grid.md",
-    "Planowanie ruchu/map decomposition algs.md",
-    "Planowanie ruchu/metric map.md",
-    "Planowanie ruchu/LIDAR.md",
-    "Planowanie ruchu/kinodynamic planning.md",
-    "Planowanie ruchu/k-d trees.md",
     "Untitled",
     "Autonomiczne Roboty Mobilne",
     "z",
@@ -184,8 +194,6 @@
     "Uczenie Maszynowe/assets/ml_diagram.png",
     "Uczenie Maszynowe/assets/lest square error.png",
     "Uczenie Maszynowe/assets/decision tree.jpg",
-    "Uczenie Maszynowe/assets",
-    "Uczenie Maszynowe",
     "Untitled.canvas"
   ]
 }
