@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6991f12bd44c3482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grafika 3D/Zaliczenie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31e6a7646118812b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autonomiczne Roboty Mobilne/Zaliczenie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "06a0e799dab52235",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Autonomiczne Roboty Mobilne/Wykład.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Autonomiczne Roboty Mobilne/Wykład.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Autonomiczne Roboty Mobilne/Wykład.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Autonomiczne Roboty Mobilne/Wykład.md"
               }
             }
           }
@@ -173,10 +148,14 @@
   },
   "active": "06a0e799dab52235",
   "lastOpenFiles": [
-    "Autonomiczne Roboty Mobilne/Zaliczenie.md",
+    "Autonomiczne Drony/14.10.2024.md",
+    "Autonomiczne Roboty Mobilne/Wykład.md",
+    "Autonomiczne Roboty Mobilne",
+    "Autonomiczne Drony/Zaliczenie.md",
+    "Pracownia badawacza.md",
+    "Roboty Przemysłowe/Programowanie Kuka.md",
     "Untitled.md",
     "conflict-files-obsidian-git.md",
-    "Autonomiczne Roboty Mobilne/14.10.2024.md",
     "Eksploracyjna analiza danych/Untitled.md",
     "Autonomiczne Roboty Mobilne/test",
     "Eksploracyjna analiza danych/Zaliczenie.md",
@@ -188,16 +167,13 @@
     "Planowanie ruchu/2D motion constraints.md",
     "Planowanie ruchu/actuators.md",
     "Teoria Sterowania w Robotyce/approximate DP.md",
-    "Roboty Przemysłowe/Programowanie Kuka.md",
     "Teoria Sterowania w Robotyce/double integrator.md",
     "Teoria Sterowania w Robotyce/Bellman equation.md",
     "Teoria Sterowania w Robotyce/continuous algebraic Ricatti equation.md",
-    "Pracownia badawacza.md",
     "Grafika 3D/Zaliczenie.md",
     "Roboty Przemysłowe",
     "Planowanie ruchu/autonomic robots.md",
-    "Untitled",
-    "Autonomiczne Roboty Mobilne",
+    "Autonomiczne Drony",
     "Planowanie ruchu/BFS.md",
     "z",
     "a",
@@ -218,7 +194,6 @@
     "Uczenie Maszynowe/assets/lest square error.png",
     "Uczenie Maszynowe/assets/decision tree.jpg",
     "Uczenie Maszynowe/unsupervised learning.md",
-    "Uczenie Maszynowe/tuning classifiers.md",
     "Untitled.canvas"
   ]
 }
