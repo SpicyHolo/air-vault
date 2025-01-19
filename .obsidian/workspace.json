@@ -51,12 +51,14 @@
             "id": "e718f821cc69d656",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Autonomiczne Roboty Mobilne/Untitled.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Untitled"
             }
           }
         ],
@@ -203,11 +205,13 @@
   },
   "active": "e718f821cc69d656",
   "lastOpenFiles": [
+    "Autonomiczne Roboty Mobilne/Zaliczenie.md",
+    "Autonomiczne Roboty Mobilne/Untitled.md",
+    "Untitled",
     "Eksploracyjna analiza danych/Untitled.md",
     "Nix/with keyword.md",
     "Eksploracyjna analiza danych/Wykład 3.md",
     "Eksploracyjna analiza danych/Eksploracyjna analiza danych.md",
-    "Autonomiczne Roboty Mobilne/Zaliczenie.md",
     "conflict-files-obsidian-git.md",
     "Eksploracyjna analiza danych/Zaliczenie.md",
     "Autonomiczne Drony/Zaliczenie.md",
@@ -233,12 +237,10 @@
     "Roboty Przemysłowe",
     "Planowanie ruchu/autonomic robots.md",
     "Autonomiczne Drony",
-    "Planowanie ruchu/BFS.md",
     "z",
     "a",
     "Eksploracyjna analiza danych",
     "2",
-    "1",
     "Uczenie Maszynowe/assets/svm_linear.png",
     "Uczenie Maszynowe/assets/sigmoid, tanh.png",
     "Uczenie Maszynowe/assets/rnn-1L.png",
